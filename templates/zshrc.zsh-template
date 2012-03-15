@@ -30,4 +30,4 @@ plugins=(git)
 
 source $ZSH/oh-my-zsh.sh
 
-. ~/.zshrc.pre-oh-my-zsh
+. ~/.dot_configs/.zshrc.conf
